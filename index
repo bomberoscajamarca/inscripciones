@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Bomberos Cajamarca</title>
+
+  <meta http-equiv="refresh"
+        content="0; url=https://script.google.com/macros/s/AKfycbz-ejQIv9i46OEZWRtW5tM9ygIktvfHuJDuiT19q6A25UnaFwswlT-bLVvKGmmLpRp1Tg/exec">
+
+  <script>
+    window.location.replace(
+      "https://script.google.com/macros/s/AKfycbz-ejQIv9i46OEZWRtW5tM9ygIktvfHuJDuiT19q6A25UnaFwswlT-bLVvKGmmLpRp1Tg/exec"
+    );
+  </script>
+</head>
+
+<body>
+  <p>
+    Redirigiendo al sistema de Bomberos Cajamarca...
+    <a href="https://script.google.com/macros/s/AKfycbz-ejQIv9i46OEZWRtW5tM9ygIktvfHuJDuiT19q6A25UnaFwswlT-bLVvKGmmLpRp1Tg/exec">
+      Ingresar al sistema
+    </a>
+  </p>
+</body>
+</html>
